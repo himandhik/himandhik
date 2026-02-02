@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm looking to collaborate on: Innovative web development projects<br>🌱 I'm currently learning: LangGraph Machine Learning <br>⚡ Fun fact: You are what you code 
+🔭 I'm looking to collaborate on: Innovative web development projects<br>🌱 I'm currently learning: LangGraph and Machine Learning <br>⚡ Fun fact: You are what you code 
 
 
 ## 🌐 Socials:
